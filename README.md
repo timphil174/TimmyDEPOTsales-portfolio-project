@@ -8,7 +8,8 @@ Insights and recommendations are provided on the following key areas:
 - Sales Trends Analysis : Evalutaion of historical sales patterns, at every granularity, focusing on Sales, Margin, Sales Volume and Order Volume.
 - Product Level Performance : An analysis of TimmyDEPOT's various product lines, understanding their impact on sales and returns. 	
 
-A dynamic and interactive Power BI dashboard can be downloaded [here](https://drive.google.com/file/d/1tJmYqvQg9Wl8GgzIBcImNzqPXngob_Pa/view?usp=drive_link).
+A dynamic and interactive Power BI dashboard can be downloaded [here](https://drive.google.com/file/d/1tJmYqvQg9Wl8GgzIBcImNzqPXngob_Pa/view?usp=drive_link) and opened in PowerBI. A PDF version (not interactive) is also available [here](https://github.com/user-attachments/files/17345541/TimmyDepotSales.pdf).
+
 Different slicers are located in the top right of the dashboard pages. 
 Please, do not hesitate to interact with the visuals by hovering or clicking the many points of interest to display additional relevant information or perform dynamic slicing. 
 
