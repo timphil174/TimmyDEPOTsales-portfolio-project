@@ -8,8 +8,8 @@ Insights and recommendations are provided on the following key areas:
 	- Sales Trends Analysis : Evalutaion of historical sales patterns, at every granularity, focusing on Sales, Margin, Sales Volume and Order Volume.
 	-Product Level Performance : An analysis of TimmyDEPOT's various product lines, understanding their impact on sales and returns. 	
 
-A dynamic and highly interactive Power BI dashboard can be downloaded here: 
-Different slicers are displayed in the top right of the dashboard pages. 
+A dynamic and interactive Power BI dashboard can be downloaded [here](https://drive.google.com/file/d/1tJmYqvQg9Wl8GgzIBcImNzqPXngob_Pa/view?usp=drive_link).
+Different slicers are located in the top right of the dashboard pages. 
 Please, do not hesitate to interact with the visuals by hovering or clicking the many points of interest to display additional relevant information or perform dynamic slicing. 
 
 The list of all the dax queries used to create the calculated measures and KPIs can be downloaded [here](https://docs.google.com/document/d/1opihpei_4-dEf88gOMW8lWPRbwRCYGQ-_mbCmQ-sb9Y/edit?usp=sharing).
@@ -28,7 +28,7 @@ Prior to beginning the analysis, a variety of checks were conducted in the Power
 
 Despite a slight decrease in early 2012, **the company's sales have continued to increase over the years**. Key performance indicators such as **Sales**, **Items sold** and **Order Volume** have all followed **the same dynamic of a significant increase throughout the months of a year into a massive drop at the begining of the following year**. Unlike the other metrics, **profit seems to follow an independent dynamic**. The following sections will explore contributing factors and highlights key opportunity areas for improvement. 
 
-Below is the summary page from the Power BI report and more examples are included throughout the report. The entire interactive dashboard can be downloaded here.
+Below is the summary page from the Power BI report and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://drive.google.com/file/d/1tJmYqvQg9Wl8GgzIBcImNzqPXngob_Pa/view?usp=drive_link).
 
 ![image](https://github.com/user-attachments/assets/254308e7-d34d-45f3-bc8f-f7dcbf562468)
 
