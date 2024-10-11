@@ -5,8 +5,8 @@ TimmyDEPOT, established in 2011, is an American e-commerce retailer and business
 The company has significant amounts of data on its sales and product offerings from 2011 and 2014. This project thoroughly analyzes and synthesizes this data in order to provide a global performance overview but also uncover critical insights that will imporve TimmyDEPOT's commercial success. 
 
 Insights and recommendations are provided on the following key areas: 
-	- Sales Trends Analysis : Evalutaion of historical sales patterns, at every granularity, focusing on Sales, Margin, Sales Volume and Order Volume.
-	-Product Level Performance : An analysis of TimmyDEPOT's various product lines, understanding their impact on sales and returns. 	
+- Sales Trends Analysis : Evalutaion of historical sales patterns, at every granularity, focusing on Sales, Margin, Sales Volume and Order Volume.
+- Product Level Performance : An analysis of TimmyDEPOT's various product lines, understanding their impact on sales and returns. 	
 
 A dynamic and interactive Power BI dashboard can be downloaded [here](https://drive.google.com/file/d/1tJmYqvQg9Wl8GgzIBcImNzqPXngob_Pa/view?usp=drive_link).
 Different slicers are located in the top right of the dashboard pages. 
@@ -77,5 +77,3 @@ Based on the uncovered insights, the following recommandations have been provide
 - Consider conducting a **dedicated marketing campaign for this time period including aggressive discounts**. Nevertheless, the products targeted need to have a **high enough base margin value** such as binders (44%) and copiers (43%) in order to prevent negative profit.
 
 - On the other hand, consider **reducing the discounts for products with very low base margin** even if it means a decrease in order volume. For example, furniture products have been barely profitable so far (6% of overall profit) but also other products like machines are often not generating any benefits. 
-
-- On the other hand, consider reducing the discounts for products with very low base margin even if it means a decrease in order volume. For example, furniture products have been barely profitable so far (6% of overall profit) but other products like machines are often not generating any benefits.  
