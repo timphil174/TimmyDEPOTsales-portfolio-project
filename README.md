@@ -8,7 +8,7 @@ Insights and recommendations are provided on the following key areas:
 - Sales Trends Analysis : Evalutaion of historical sales patterns, at every granularity, focusing on Sales, Margin, Sales Volume and Order Volume.
 - Product Level Performance : An analysis of TimmyDEPOT's various product lines, understanding their impact on sales and returns. 	
 
-A dynamic and interactive Power BI dashboard can be downloaded [here](https://drive.google.com/file/d/1tJmYqvQg9Wl8GgzIBcImNzqPXngob_Pa/view?usp=drive_link) and opened in PowerBI. A PDF version (not interactive) is also available [here](https://github.com/user-attachments/files/17345541/TimmyDepotSales.pdf).
+A dynamic and interactive Power BI dashboard can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiZTBmMjNlNmItYjkyYy00NmU2LTlhMjgtZmFlYzQ4OTRjMWZlIiwidCI6ImFhOGJkYWE0LThmZWItNDZjMC1iNWU2LTMxYzk2MzM3NTc5YiIsImMiOjl9)or downloaded [here](https://drive.google.com/file/d/1tJmYqvQg9Wl8GgzIBcImNzqPXngob_Pa/view?usp=drive_link) and opened in PowerBI. A PDF version (not interactive) is also available [here](https://github.com/user-attachments/files/17345541/TimmyDepotSales.pdf).
 
 Different slicers are located in the top right of the dashboard pages. 
 Please, do not hesitate to interact with the visuals by hovering or clicking the many points of interest to display additional relevant information or perform dynamic slicing. 
@@ -29,7 +29,7 @@ Prior to beginning the analysis, a variety of checks were conducted in the Power
 
 Despite a slight decrease in early 2012, **the company's sales have continued to increase over the years**. Key performance indicators such as **Sales**, **Items sold** and **Order Volume** have all followed **the same dynamic of a significant increase throughout the months of a year into a massive drop at the begining of the following year**. Unlike the other metrics, **profit seems to follow an independent dynamic**. The following sections will explore contributing factors and highlights key opportunity areas for improvement. 
 
-Below is the summary page from the Power BI report and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://drive.google.com/file/d/1tJmYqvQg9Wl8GgzIBcImNzqPXngob_Pa/view?usp=drive_link).
+Below is the summary page from the Power BI report and more examples are included throughout the report. The entire interactive dashboard can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiZTBmMjNlNmItYjkyYy00NmU2LTlhMjgtZmFlYzQ4OTRjMWZlIiwidCI6ImFhOGJkYWE0LThmZWItNDZjMC1iNWU2LTMxYzk2MzM3NTc5YiIsImMiOjl9).
 
 ![image](https://github.com/user-attachments/assets/254308e7-d34d-45f3-bc8f-f7dcbf562468)
 
